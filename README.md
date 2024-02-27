@@ -501,8 +501,3 @@ After completing the setup and testing of the Bedrock Agent and Streamlit app, f
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
-
-## License
-
-This library is licensed under the MIT-0 License. See the LICENSE file.
-

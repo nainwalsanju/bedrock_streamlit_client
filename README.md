@@ -1,1 +1,1 @@
-# bedrock_stramlit_client
+# bedrock_streamlit_client
